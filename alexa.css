@@ -46,7 +46,7 @@ a:hover {
 /* Home Section */
 .home-section {
   min-height: 100vh;
-  background-image: url('images/dagat.png');
+  background-image: url('dagat.png');
   background-size: cover;
   background-position: center center;
   display: flex;
