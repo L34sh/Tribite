@@ -1,1 +1,1 @@
-a tributr to my friend
+a tribute to my friend
